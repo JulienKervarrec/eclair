@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à le nœud Lightning en Scala, les canaux, le routage et la gestion de paiements est disponible dans [docs/fr/](docs/fr/).
+
 ![Eclair Logo](.readme/logo.png)
 
 [![Build Status](https://github.com/ACINQ/eclair/workflows/Build%20&%20Test/badge.svg)](https://github.com/ACINQ/eclair/actions?query=workflow%3A%22Build+%26+Test%22)
